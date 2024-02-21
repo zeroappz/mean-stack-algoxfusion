@@ -52,7 +52,7 @@
     "ng2-charts": "^5.0.3",
     "ngx-dropzone-wrapper": "^15.0.0",
     "ngx-echarts": "^17.1.0",
-    "ngx-gauge": "^8.0.0",
+    "ngx-gauge": "^9.0.0",
     "ngx-mask": "^17.0.0",
     "ngx-scrollbar": "^13.0.3",
     "rxjs": "~7.8.1",
