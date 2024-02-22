@@ -217,7 +217,7 @@ export class MainComponent implements OnInit {
           inverseColors: true,
           opacityFrom: 1,
           opacityTo: 1,
-          stops: [50, 0, 100, 100],
+          // stops: [50, 0, 100, 100],
         },
       },
       yaxis: {
